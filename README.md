@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Graduate student at Dalhousie University.
-- 💼 &nbsp; 5+ years of professional experience as a Software Developer.
+- 🎓 &nbsp; Graduate student at Dalhousie University
+- 💼 &nbsp; 5+ years of professional experience as a Software Developer
 - 🌱 &nbsp; Currently learning to develop React web applications
 - 📫 &nbsp; How to reach me **mansi0910@gmail.com**
-- ✍️ &nbsp; Loves to go for hiking and camping.
+- ✍️ &nbsp; Loves to go for hiking and camping
 
 <h3> Connect with Me </h3>
 
